@@ -6,6 +6,7 @@
 ## 使用方法
 
 (```)
+
   let arr = ["ordersReceived.mp3", "startCooking.mp3"]  
   Sound.instance.playSoundArray(fileNames: arr)
 (```)
